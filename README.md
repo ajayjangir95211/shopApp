@@ -5,3 +5,5 @@ Features
 
     Customer Interface: Allows customers to browse products, add them to their cart, and complete purchases securely.
     Admin Interface: Provides admins with the ability to manage products, view orders, and update inventory.
+
+Check Live [Demo](https://shopapp-gtpi.onrender.com)
